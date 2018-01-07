@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangqian401/wangqian401.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "老婆，我爱你"
-sidebar-avatar: G:/quanjia.png     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/quanjia.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
